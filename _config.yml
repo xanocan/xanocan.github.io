@@ -56,7 +56,7 @@ social-network-links:
   twitter: daattali
   #patreon: DeanAttali
   #youtube: "@daattali"
-  whatsapp: 085735145762
+  whatsapp: +6285735145762
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -257,7 +257,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
